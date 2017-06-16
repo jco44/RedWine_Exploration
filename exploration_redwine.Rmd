@@ -1,0 +1,14 @@
+
+Red Wine Exploration by Jordan Mitteco
+=========================================================
+
+```{r echo=FALSE, message=Fales, warning=False, packages}
+
+library(ggplot2)
+```
+
+```{r echo=FALSE, Load_Data}
+# Load the data
+
+RedWine <- read.csv()
+```
